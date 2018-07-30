@@ -1,0 +1,70 @@
+h1 {
+	font-family: 'Meddon', cursive, arial, sans-serif;
+	font-size: 40px;
+	margin-bottom: 10px;
+	color: #5A2D0C;
+	padding-right: 15px;
+}
+.title {
+	font-family: 'Bad Script', arial, sans-serif;
+	color: #5A2D0C;
+	padding-right: 15px;
+
+}
+header {
+	background-color: cornsilk; 
+	text-align: right;
+}
+.nav {
+	background-color: cornsilk;
+	text-align: center;
+	margin:0;
+	padding: 0;
+	list-style-type: none;
+}
+.navli {
+	display: inline;
+	font-size: 20px;
+	font-family: didot, arial;
+	padding: 20px;
+
+}
+/*links styling*/
+a:link {
+	color: #5A2D0C;
+
+}
+a:visited {
+	color: #8B0000;
+}
+a:hover {
+	color: #778899;
+}
+/* posts styling */
+main {
+	background-color: cornsilk;
+	font-family: didot, arial;
+	color: #5A2D0C;
+	text-align: center; 
+	display: block;
+}
+h2	{
+	font-family: 'Bad Script', arial, sans-serif;
+	font-size: 40px;
+}
+h3 {
+	font-family: didot, arial;
+}
+body {
+	background-color: cornsilk;
+}
+p {
+	margin-left: 60px;
+	margin-right: 60px;
+	text-align: center;
+}
+.Dante {
+	font-style: italic;
+	text-align: center;
+}
+
